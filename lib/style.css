@@ -110,6 +110,10 @@ font-family: 'Sugo Pro Display', sans-serif;
 }
 
 .credit {
-  background: #b52a1a;
+  background-image:
+  url('https://duakelinci.com/assets/images/dekorasi_kacang_1.png');
+  background-position: top center, bottom center, top right, top left, bottom left, bottom right ;
+    background-size: 7px 7px;
+    background-repeat: repeat;
   font-size: 11px;
 }
