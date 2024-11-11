@@ -26,7 +26,7 @@
 }
 
 .carousel {
-  padding-top: 58px;
+  padding-top: 62px;
 }
 
 .btn-close:focus {
@@ -43,6 +43,7 @@ font-family: 'Sugo Pro Display', sans-serif;
 
 .text-set {
   font-size: 13px;
+  text-align: justify;
 }
 
 .pk-set {
