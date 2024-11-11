@@ -1,0 +1,115 @@
+@import url('https://fonts.cdnfonts.com/css/sugo-pro-classic');
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+.chs{
+  padding-left: 20px;
+  padding-right: 10px;
+  padding-bottom: 0px;
+}
+
+.close {
+  background: none;
+  border: none;
+  font-size: 30px;
+  padding-top: 0px;
+  padding-bottom: 11px;
+  color: #fff;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.navbar-toggler:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.carousel {
+  padding-top: 62px;
+}
+
+.btn-close:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.navbar-brand {
+font-size: 2.4rem;
+font-weight: bold;
+font-family: 'Sugo Pro Classic', sans-serif;
+font-family: 'Sugo Pro Display', sans-serif;
+}
+
+.text-set {
+  font-size: 13px;
+}
+
+.pk-set {
+  background-image:
+  url('https://duakelinci.com/assets/images/dekorasi_kacang_1.png');
+  background-position: top center, bottom center, top right, top left, bottom left, bottom right ;
+    background-size: 5px 5px;
+    background-repeat: repeat;
+}
+
+.judul {
+  font-family: "Sour Gummy", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 400;
+}
+
+.tentang {
+  background: #dc3545;
+}
+
+.testimonial-item {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.tokopedia {
+  width: 30px; /* Sesuaikan ukuran lebar */
+  height: 30px; /* Sesuaikan ukuran tinggi */
+  background-image: url("https://cdn.brandfetch.io/idoruRsDhk/theme/dark/symbol.svg?c=1id64Mup7ac03k1S4NH&k=bfHSJFAPEG");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.shopee {
+  width: 30px; /* Sesuaikan ukuran lebar */
+  height: 30px; /* Sesuaikan ukuran tinggi */
+  background-image: url("https://seeklogo.com/images/S/shopee-logo-DD5CAE562A-seeklogo.com.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.tiktok {
+  width: 30px; /* Sesuaikan ukuran lebar */
+  height: 30px; /* Sesuaikan ukuran tinggi */
+  margin-right: 30px;
+  margin-left: 30px;
+  background-image: url("https://images.seeklogo.com/logo-png/37/1/tik-tok-logo-png_seeklogo-376694.png?v=638654626140000000");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.alamat {
+  font-size: 13px;
+}
+
+.kontak {
+  font-size: 14px;
+  padding-top: 15px;
+}
+
+.credit {
+  background: #b52a1a;
+  font-size: 11px;
+}
